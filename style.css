@@ -12,3 +12,15 @@ body{
     font-size: 150px;
     margin-bottom: -100px;
 }
+#icon{
+    margin-left: 250px;
+    font-size: 110px;
+    margin-top: 220px;
+    transform: ScaleY(-1);
+}
+#icon2{
+    margin-right: 250px;
+    font-size: 110px;
+    margin-top: -27%;
+    position: absolute;
+}

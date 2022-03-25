@@ -5,7 +5,11 @@ let arr= spade[Math.floor(Math.random() * spade.length)]
 
 document.querySelector("#cards").innerHTML = arr
 document.querySelector("#icon").innerHTML = deck
+document.querySelector("#icon2").innerHTML = deck
 
 if (deck === "♦" || deck === "♥"){
     document.querySelector("#icon").style.color = "red"
+}
+if (deck === "♦" || deck === "♥"){
+    document.querySelector("#icon2").style.color = "red"
 }
