@@ -10,7 +10,7 @@ body{
     border-radius: 7px;
     text-align: center;
     font-size: 150px;
-    margin-bottom: -100px;
+    margin-bottom: -120px;
 }
 #icon{
     margin-left: 250px;
@@ -21,6 +21,6 @@ body{
 #icon2{
     margin-right: 250px;
     font-size: 110px;
-    margin-top: -27%;
+    margin-bottom: 150px;
     position: absolute;
 }
