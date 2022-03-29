@@ -3,7 +3,7 @@ let suit = ["♦", "♥", "♠", "♣"]
 let deck = suit[Math.floor(Math.random() * suit.length)]
 let arr= spade[Math.floor(Math.random() * spade.length)]
 
-document.querySelector("#cards").innerHTML = arr
+document.querySelector("#number").innerHTML = arr
 document.querySelector("#icon").innerHTML = deck
 document.querySelector("#icon2").innerHTML = deck
 
